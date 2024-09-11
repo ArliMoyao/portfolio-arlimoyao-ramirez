@@ -23,7 +23,6 @@ layout: doc
 - I studied abroad in Seoul this past spring semester
   
 
-Check out my linkedin [here](www.linkedin.com/in/arli118) 
 
 
 
