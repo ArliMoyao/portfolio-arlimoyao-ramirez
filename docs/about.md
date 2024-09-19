@@ -6,6 +6,7 @@ layout: doc
 
 ![This is a picture of NYC ](assets/images/arli-picture.jpg){:width='300'}
 
+
 **Name:** Arli Moyao-Ramirez
 
 **Age:** 21
