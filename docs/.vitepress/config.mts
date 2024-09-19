@@ -12,6 +12,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
       { text: "About Me", link: "/about.md" }
+      {text: "Assignments", link: "/assignments"}
       
     ],
 
