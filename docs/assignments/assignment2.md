@@ -40,7 +40,7 @@ layout: doc
 4. This GIF represents a feature that allows users of Facebook to invite friends to join certain groups. This functionality is useful because it allows for more user engagement to different communities. Similarly, users will have the option to join as many communities as they would like to. 
 ![](/assets/images/share-event.gif){:width='400'}
 
-5. This GIF represents subchannels within a group on Discord that serves as multiple chat rooms with different purposes, and has multiple subgroup component. This functionality is useful because it allows users to move between various chats of the communities they are a part of. An example chat of a group could similarly be an introduction chat, or announcements chat. 
+5. This GIF represents subchannels within a group on Discord that serves as multiple chat rooms with different purposes, and has a multiple subgroup component. This functionality is useful because it allows users to move between various chats of the communities they are a part of. An example chat of a group could similarly be an introduction chat, or announcements chat. 
 
 ![](/assets/images/groups.gif){:width='400'}
 
@@ -95,15 +95,15 @@ layout: doc
 - After an event happens, users can leave feedback, rate the hosts, or share their event experience which helps improve future events.
 
 **Community Wide Events Calender**
-- A shared calender that allows users to see all upcoming events in their community, helping them plan and discover activities that match their interests 
+- A shared calender that allows users to see all upcoming events in their community, helping them plan and discover activities that match their interests.
 
 **Mood Based Event Suggestions**
 - This feature could create a mood based input system where users can indicate their mood which matches them to certain events they can participate in.
 
 **Time Capsule for Memories**
-- After an event, users can create a “time capsule” function that is filled with photos, videos and can be revisited a date in the future, which the user will receive a notification about, or similarly a user can upload pictures to a personal “time capsule”. 
+- After an event, users can create a “time capsule” function that is filled with photos, videos and can be revisited on a date in the future, which the user will receive a notification about, or similarly a user can upload pictures to a personal “time capsule”. 
 
-*Spontaneous Meetups**
+**Spontaneous Meetups**
 - Based on location, and time of day, a user can indicate their immediate interest to attend similar types of events, and create more informal meetups for users. 
 
 **Event “Wingman”**
@@ -113,34 +113,34 @@ layout: doc
 - A user can sign up for an event that is generated based off of two requirements, location and interests. This can encourage users to sign up for events, even if they are unsure what they would like to attend.
 
 **Integrated Map Feature**
-- This feature displays the events happening in a map version, where users can see nearby events, people that they befriend, or discounts at local shops/cafes in which the app can partner with to receive discounts that can also integrate with the reward system.
+- This feature displays the events happening in a map version, where users can see nearby events, people that they befriend, or discounts at local shops/cafes. The app can partner with given shops/cafes to receive discounts that can also be integrated with a reward system.
 
 
 ## **4.VSD Analysis** 
 
 **Insight 1:**
 
-The first observation that I made that can have impactful consequences is the idea of “non targeted use” within the stakeholders prompt. The consequences that can come up for social media apps where one meets a person online, can often lead users to think about safety concerns. My design response would be extending the feedback and badges feature to ensure that users can take part in events, or communities with a background check on individuals, and a feedback section or reviews for repeated events that allows future users to note that those events are safe.
+The first observation that I made that can have impactful consequences is the idea of “non targeted use” within the stakeholders prompt. The consequences that can come up for social media apps where one meets a person online, can often lead users to think about safety concerns. My design response would be extending the feedback and badges feature to ensure that users can take part in events, or communities with a verification check on individuals, and a feedback section or reviews for repeated events that allows future users to note that those events are safe.
 
 **Insight 2:**
 
-Another observation that I made refers to accounting for culture under the pervasiveness section. While user’s will already benefit from the social interactions they have with other individuals, one aspect that might be missed by the app is how people interact with each other from vastly different backgrounds and cultures. A way to promote this is by introducing a cultural sensitivity badge within the achievement based badges system. Users can earn this by participating in events centered around cultural exchange or inclusivity, helping create a more respectful and aware user community.  
+Another observation that I made refers to "accounting for culture" under the pervasiveness prompt. While users will already benefit from the social interactions they have with other individuals, one aspect that might be missed by the app is how people interact from vastly different backgrounds and cultures. A way to promote this is by introducing a cultural sensitivity badge within the achievement based badges system. Users can earn this by participating in events centered around cultural exchange or inclusivity, helping create a more respectful and aware user community.  
 
 
 
 **Insight 3:**
 
-Another observation that I made refers to variation in human ability under the stakeholders section which is important when considering how to increase awareness of how accessible certain events are. Some of the features like event radar can include an option to filter events based on accessibility, such as wheelchair-friendly locations, sign language interpreters, or events with sensory-friendly environments. 
+Another observation that I made refers to "variation in human ability" under the stakeholders section which is important when considering how to increase awareness of how accessible certain events are. Some of the features like event radar can include an option to filter events based on accessibility, such as wheelchair-friendly locations, sign language interpreters, or events with sensory-friendly environments. 
 
 
 **Insight 4:**
 
-The goal of the app is to build friendships but more so, sustain friendships for the long-run. Currently, the app supports people to attend as many events as they would like– whether that is one or ten events. People enjoy reminiscing best through throwback photos! To further enhance this, there can be a shared time capsule for friends on the app where everyone in a group can contribute to a collection of photos/videos. This can serve as a digital scrapbook, that can be revisited. 
+The goal of the app is to build friendships but more so, sustain friendships for the long-run. Currently, the app encourages users to attend as many events as they would like– whether that is one or ten events. People enjoy reminiscing best through throwback photos! To further enhance this, there can be a shared time capsule for friends on the app where everyone in a group can contribute to a collection of photos/videos. This can serve as a digital scrapbook, that can be revisited. 
 
 
 **Insight 5:**
 
-Another observation I made refers to the value tensions that might arise between privacy and user engagement. Users may want participate in community events but also value their privacy and be reluctant to share too much personal information especially when locations are turned on. The current feature that can be modified is customizable privacy controls to their profiles, event participation, and interactions. With the chat/feed of a specific community feature, a user could have the option to participate anonymously or limit their visibility to certain groups, such as a “ghost mode” for public events where users can participate without revealing their identity. 
+Another observation I made refers to the "value tensions" that might arise between privacy and user engagement. Users may want participate in community events but also value their privacy and be reluctant to share too much personal information especially when locations are turned on. Privacy controls can be made customizable within some features like users profiles, event participation, and interactions. Within the chat/feed of a specific community feature, a user could have the option to participate anonymously or limit their visibility to certain groups, such as a “ghost mode” for public events where users can participate without revealing their identity. 
 
 ## **5.Storyboarding and Sketching**
 
