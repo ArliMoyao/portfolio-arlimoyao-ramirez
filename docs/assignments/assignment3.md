@@ -9,9 +9,9 @@ September 20 2024
 
 Feeling disconnected after graduation? Tired of meeting people online through apps, only to be ghosted? Looking for something fun to do on the weekends? 
 
-Eventure is your all-in-one app for building real connections, meeting new people, and sharing hobbies through in-person gatherings. Designed to help you find and create communities around your interests, Eventure makes it easy to chat, like, and share posts with others in your group. You can create or attend events, and explore new activities based on your personal interests. 
+Eventure is your all-in-one app for building real connections, meeting new people, and sharing hobbies through in-person gatherings. You can create create or attend events, upvote popular ones, and track your attendance streaks.
 
-Want to try something new or meet people nearby?  Use the personalized feed to discover events that match your interests, or find events near you with a simple location search. Whether you're looking for a fun weekend plan or a spontaneous adventure, Eventure gets you off the screen and out into the world—connecting with people and enjoying new experiences.
+Want to try something new or meet people nearby?  Use the personalized feed to discover events that match your interests or through mood-based event recommendations.  Whether you're looking for a fun weekend plan or a spontaneous adventure, Eventure gets you off the screen and out into the world—connecting with people and enjoying new experiences.
 With Eventure, making friends and discovering new passions is as easy as opening the app.
 
 # 2. Functional Design 
