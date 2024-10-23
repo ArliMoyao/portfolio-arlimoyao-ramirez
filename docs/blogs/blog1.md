@@ -57,4 +57,4 @@ This allows users to add further tagging for their assignments tasklist.
 ![](/assets/images/notionuse7.png){:width='300'}
 
 
-While there is a demonstrated learning curve, Notion has also opened a new type of customizable workspace and productivity app that many users have enjoyed. It has allowed users with different learning styles to tailor their environments according to their needs, making it versatile for a wide range of tools. However, through a heuristic evaluation, we have also seen how its tools can be much harder to navigate on a mobile device. 
+While there is a demonstrated learning curve, Notion has also opened a new type of customizable workspace and productivity app that many users have enjoyed. It has allowed users with different learning styles to tailor their environments according to their needs, making it versatile for a wide range of tools. However, through a cognitive walkthrough, we have also seen how its tools can be much harder to navigate on a mobile device. 
