@@ -4,7 +4,7 @@ layout: doc
 ---
 
 # Assignment 5: Front-end Deisgn and Implementation
-October 17, 2024 (Updated October , 2024)
+October 17, 2024 (Updated October 30, 2024)
 
 This assignment focuses on creating a fully fledged and styled reactive user interface. It will be used to integrate with the previous assignment to create a complete full-stack application. 
 
