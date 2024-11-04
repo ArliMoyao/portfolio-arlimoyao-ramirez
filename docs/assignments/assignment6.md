@@ -31,7 +31,7 @@ In Study 2, Participant 2 dove into the app’s features with curiosity, testing
 
 - Undo RSVP Lack of Immediate Feedback (Conceptual, Moderate): Users feel uncertain after undoing an RSVP since the event remains in the list without immediate confirmation; a quick confirmation message or auto-refresh would resolve this
 
-- RSVPed Events Not Displaying Consistently (Conceptual, Major): Users expect to see their RSVPed events in a dedicated list, but inconsistencies cause them to disappear unexpectedly; ensuring reliable syncing and displaying of RSVPed events would enhance trust and usability
+- RSVPed Events Not Displaying Consistently (Conceptual, Major): Users expect to see their RSVPed events in a dedicated list, but inconsistencies cause them to disappear unexpectedly; ensuring reliable syncing and displaying of RSVPed events would enhance trust and usability (part of the issue was encountering backend issues with rendering the data to the front end)
 
 - Bugs in Navigating Between Steps in Event Creation (Conceptual, Major): Navigation bugs disrupt the flow of creating events; one way of fixing this bug is by enhancing backend state management. 
 
