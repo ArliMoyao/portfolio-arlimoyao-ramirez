@@ -30,7 +30,7 @@ Reviewing system is direct and to the point. Important and could be used similar
 
 ### Instacart
 Shows the product information as a drop down under details and provides a slide of the nutrional facts that display the ingredients - useful as a potential way to display information if users plan to exchange prepared foods
-![](../project-images/instacart-ingredients.PNG){:width='300'}
+![](../project-images/instacart-ingredients.png){:width='300'}
 
 ### Depop
 
