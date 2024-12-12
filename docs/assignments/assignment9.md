@@ -6,6 +6,9 @@ layout: doc
 # Project Phase 5: Beta Release
 November 13, 2024. By Carla, Adriana, Arzy, Arli
 
+
+## Link to Beta 
+
 ## Design Revisions 
 
 - Navigation from Home: instead of vertical try 2 sections that scroll horizontally
