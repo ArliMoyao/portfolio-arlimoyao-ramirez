@@ -8,6 +8,7 @@ November 13, 2024. By Carla, Adriana, Arzy, Arli
 
 
 ## Link to Beta 
+[The link to the Beta Release](https://github.com/carladuong/replate/commit/2a30f93bb86fcb080c9ba1c95da00880d09356fd)
 
 ## Design Revisions 
 
