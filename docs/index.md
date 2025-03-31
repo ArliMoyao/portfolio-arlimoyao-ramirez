@@ -19,10 +19,8 @@ features:
     details: Some cool blogs you'll write this semester!
     
   - title: Assignments
-    details: All of your assignments will be posted on your portfolio.
     link: /assignments
     
   - title: About Me
-    details: You'll implement a small bio about yourself on here!
     link: /about.md
 ---
